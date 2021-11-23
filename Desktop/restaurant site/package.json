@@ -1,0 +1,11 @@
+{
+  "name": "restaurant-site",
+  "version": "1.0.0",
+  "description": "a Haitian restaurant site by Rossiny St Cyr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rossiny St Cyr",
+  "license": "ISC"
+}

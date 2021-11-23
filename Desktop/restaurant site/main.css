@@ -1,0 +1,13 @@
+.jumbotron {
+    margin: 0;
+    padding: 20px;
+    background-color: crimson;
+}
+
+h1{
+    color: white;
+}
+
+body{
+    background-color: thistle;
+}
